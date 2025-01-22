@@ -2,12 +2,12 @@
 
     <PropertyGroup>
         <!--works-->
-        <TargetFrameworks>net8.0;net8.0-ios</TargetFrameworks>
+        <!--<TargetFrameworks>net8.0;net8.0-ios</TargetFrameworks>-->
         <!--adding the windows target breaks the build:
         1> NewContent1.xaml(2,2): XamlCompiler error WMC0001: Unknown type 'ContentView' in XML namespace 'http://schemas.microsoft.com/dotnet/2021/maui'
         1> NewContent1.xaml(5,6): XamlCompiler error WMC0001: Unknown type 'VerticalStackLayout' in XML namespace 'http://schemas.microsoft.com/dotnet/2021/maui'
-        1> NewContent1.xaml(6,10): XamlCompiler error WMC0001: Unknown type 'Label' in XML namespace 'http://schemas.microsoft.com/dotnet/2021/maui'
-        <TargetFrameworks>net8.0;net8.0-windows10.0.19041.0;net8.0-ios</TargetFrameworks>-->
+        1> NewContent1.xaml(6,10): XamlCompiler error WMC0001: Unknown type 'Label' in XML namespace 'http://schemas.microsoft.com/dotnet/2021/maui'-->
+        <TargetFrameworks>net8.0;net8.0-windows10.0.19041.0;net8.0-ios</TargetFrameworks>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <LangVersion>latest</LangVersion>
@@ -21,8 +21,10 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Avalonia" Version="11.2.3" />
-        <PackageReference Include="Avalonia.Maui" Version="11.1.0" />
+        <!--<PackageReference Include="Avalonia" Version="11.2.3" />
+        <PackageReference Include="Avalonia.Maui" Version="11.1.0" />-->
+        <!--also fails on windows build if just Microsoft.Maui.Controls are added-->
+        <PackageReference Include="Microsoft.Maui.Controls" Version="8.0.3" />
         <PackageReference Include="Microsoft.Maui.Essentials" Version="8.0.100" />
     </ItemGroup>
 
