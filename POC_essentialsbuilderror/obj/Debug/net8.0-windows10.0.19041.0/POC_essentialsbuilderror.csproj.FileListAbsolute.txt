@@ -1,0 +1,14 @@
+C:\Code_gh\POC_essentialsbuilderror\POC_essentialsbuilderror\bin\Debug\net8.0-windows10.0.19041.0\POC_essentialsbuilderror.deps.json
+C:\Code_gh\POC_essentialsbuilderror\POC_essentialsbuilderror\bin\Debug\net8.0-windows10.0.19041.0\POC_essentialsbuilderror.dll
+C:\Code_gh\POC_essentialsbuilderror\POC_essentialsbuilderror\bin\Debug\net8.0-windows10.0.19041.0\POC_essentialsbuilderror.pdb
+C:\Code_gh\POC_essentialsbuilderror\POC_essentialsbuilderror\obj\Debug\net8.0-windows10.0.19041.0\POC_essentialsbuilderror.csproj.AssemblyReference.cache
+C:\Code_gh\POC_essentialsbuilderror\POC_essentialsbuilderror\obj\Debug\net8.0-windows10.0.19041.0\POC_essentialsbuilderror.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code_gh\POC_essentialsbuilderror\POC_essentialsbuilderror\obj\Debug\net8.0-windows10.0.19041.0\POC_essentialsbuilderror.AssemblyInfoInputs.cache
+C:\Code_gh\POC_essentialsbuilderror\POC_essentialsbuilderror\obj\Debug\net8.0-windows10.0.19041.0\POC_essentialsbuilderror.AssemblyInfo.cs
+C:\Code_gh\POC_essentialsbuilderror\POC_essentialsbuilderror\obj\Debug\net8.0-windows10.0.19041.0\POC_essentialsbuilderror.csproj.CoreCompileInputs.cache
+C:\Code_gh\POC_essentialsbuilderror\POC_essentialsbuilderror\obj\Debug\net8.0-windows10.0.19041.0\ref\POC_essentialsbuilderror.dll
+C:\Code_gh\POC_essentialsbuilderror\POC_essentialsbuilderror\obj\Debug\net8.0-windows10.0.19041.0\Avalonia\Resources.Inputs.cache
+C:\Code_gh\POC_essentialsbuilderror\POC_essentialsbuilderror\obj\Debug\net8.0-windows10.0.19041.0\Avalonia\resources
+C:\Code_gh\POC_essentialsbuilderror\POC_essentialsbuilderror\obj\Debug\net8.0-windows10.0.19041.0\Avalonia\POC_essentialsbuilderror.dll
+C:\Code_gh\POC_essentialsbuilderror\POC_essentialsbuilderror\obj\Debug\net8.0-windows10.0.19041.0\Avalonia\POC_essentialsbuilderror.pdb
+C:\Code_gh\POC_essentialsbuilderror\POC_essentialsbuilderror\obj\Debug\net8.0-windows10.0.19041.0\refint\Avalonia\POC_essentialsbuilderror.dll
